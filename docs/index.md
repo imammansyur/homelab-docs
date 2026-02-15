@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Homelab Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site documents my homelab setup and how to troubleshoot if some problems occured. It also works as a practical guide, cheatsheet, and personal reminder so I don't have to relearn the same things twice.
 
-## Commands
+### Documentation To-do List
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [To-do list](to-do-list.md)
 
-## Project layout
+### Homelab Infrastructure
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Network diagram](overview/network-diagram.md)

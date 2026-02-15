@@ -1,2 +1,23 @@
 site_name: Homelab Docs
-theme: material
+site_description: This is a site for my homelab documentation.
+theme:
+  name: material
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugin:  
+  - search
+  - awesome-nav
