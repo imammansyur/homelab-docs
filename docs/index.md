@@ -2,6 +2,8 @@
 
 This site documents my homelab setup and how to troubleshoot if some problems occured. It also works as a practical guide, cheatsheet, and personal reminder so I don't have to relearn the same things twice.
 
+## Table of Contents
+
 ### Documentation
 
 - [To-do list](documentation/to-do-list.md)
@@ -23,3 +25,8 @@ This site documents my homelab setup and how to troubleshoot if some problems oc
 - [Wazuh](services/wazuh.md)
 - [Download](services/download.md)
 - [General purpose](services/general-purpose.md)
+
+### Guides
+
+- [File permissions](guides/file-permissions.md)
+- [User & Group Management](guides/user-and-group.md) 
