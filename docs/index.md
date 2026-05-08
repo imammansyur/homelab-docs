@@ -30,3 +30,5 @@ This site documents my homelab setup and how to troubleshoot if some problems oc
 
 - [File permissions](guides/file-permissions.md)
 - [User & Group Management](guides/user-and-group.md) 
+- [Absolute & Relative Path](guides/absolute-relative-path.md)
+
